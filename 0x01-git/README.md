@@ -1,2 +1,2 @@
-Latest upadte
+git pull origin main 
 
